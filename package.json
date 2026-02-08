@@ -1,0 +1,14 @@
+{
+  "name": "chromipad",
+  "version": "1.0.0",
+  "description": "Remote Browser for old iPad via Playwright",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "playwright": "^1.39.1"
+  }
+}
+

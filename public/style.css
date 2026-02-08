@@ -1,0 +1,10 @@
+body { margin:0; font-family:sans-serif; }
+#navbar { display:flex; padding:5px; background:#eee; align-items:center; }
+#navbar input { flex:1; padding:5px; margin:0 5px; }
+#navbar button { padding:5px 10px; margin:0 2px; }
+
+#tabs { display:flex; padding:5px; background:#ddd; overflow-x:auto; }
+#tabs button { margin:0 2px; padding:3px 8px; }
+
+#iframe { width:100%; height:calc(100vh - 90px); border:none; }
+
